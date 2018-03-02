@@ -9,6 +9,6 @@ class Route{
     }
 
     public function dispatch(){
-       echo 123;
+
     }
 }
