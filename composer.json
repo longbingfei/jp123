@@ -1,0 +1,13 @@
+{
+    "name": "web/japan",
+    "authors": [
+        {
+            "name": "zhangxian",
+            "email": "zhang.xian@njswtz.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {"App\\": "app/"}
+    }
+}
